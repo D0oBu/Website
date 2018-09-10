@@ -1,0 +1,26 @@
+body{
+	background-position: center;
+}
+#aligan_text{
+	text-align: justify;
+	text-indent: 30px;
+	letter-spacing: 1px;
+}
+#font_size {
+	font-size: 24px;
+	text-decoration: underline;
+}
+.nama{
+	text-align: justify;
+	text-underline-position: left;
+}
+.sup{
+	text-decoration: underline;
+	text-align: center;
+}
+#hah{
+	color: white;
+}
+	 
+
+	
